@@ -298,13 +298,6 @@ High accessibility. White(or light) background.
 In the MVP version of the project we will implement only Russian localization. In the future we will add English
 localization.
 
-# 6. Prototypes
 
-The following Figma files can be used as a rough prototypes for the design of the website, they help to understand the 
-functionality of the website but they do not represent design of the website:
-
-https://www.figma.com/file/ayok9hMQ2BAfLT87IXsSfr/Untitled?node-id=1%3A3&t=D9UD72dNjzsYcYsW-1
-
-https://www.figma.com/file/qfrXwZMWr4yy6kqk0iC0UC/b-les-(Copy)?node-id=0%3A1&t=HJwn2l7HvopRbCjs-1
 
 
