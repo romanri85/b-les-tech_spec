@@ -8,6 +8,7 @@ Moscow, St. Petersburg and others cities in Russia.
 The products of the company are: interior doors, door handles and other door hardware. The services of the company are:
 delivery, installation, measurements, consulting, etc.
 The visitor can read about the company, its product and services.
+Web design of the project can be found at https://www.figma.com/file/QI9iKTv97CI2J8b5MfBILt/B-les-(Copy)?node-id=31%3A765&t=FIEEl69AHNVIIIc9-1
 
 # 2. Website functionality
 
@@ -281,8 +282,7 @@ For project development we use:
   - Django Rest Framework 3.14
   - PostgreSQL 13.3
 * Frontend:
-  - React
-  - TypeScript
+  - Vue JS
 
 Payment system integration will be not implemented in MVP version of the project but will be implemented in the future.
 
